@@ -3,6 +3,8 @@
 ## Table of Contentes:
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Recommendations](#recommendations)
 ### Project Overview:
 SQL Data Analysis on Restaurant Orders: This project analyzes a restaurant's order data over a quarter, focusing on order frequency, item popularity, high-value purchases, and time-based trends. Key insights include identifying the most and least ordered items, peak ordering times, and potential cuisine expansions. The SQL queries and dataset used for this analysis are included in the repository.
@@ -26,12 +28,12 @@ order_time          : Time an order was put in (HH:MM:SS AM/PM)
 item_id             : Matches the menu_item_id in the menu_items table
 
 
-### Data Cleaning/Preparation:
+### Data Cleaning and Preparation:
 - Data loading and inspection
 - Handling missing values
 - Data cleaning and formatting
 
-### Exploratory Data Analysis(EDA):
+### Exploratory Data Analysis:
 
 EDA involved exploring the dataset to answer key questions, such as:  
 #### View the **menu_items** table:
