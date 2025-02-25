@@ -47,5 +47,16 @@ EDA involved exploring the dataset to answer key questions, such as:
 12) What insights can be gathered form the results of highest spend order?
 13) What insights can be gathered from the top 5 highest spend order?
 
+### Results/Findings
+Interesting results during analysis are summarized as follows:
+1) The least ordered items were mostly fell into Mexican and Italian category however the highest amount spend category were Italian also Mexican respectively.
+2) The most ordered items was in American category however the least amount spend category was also American.
+3) Asian was the second most ordered category and secon highest amount spend overall.
+
+### Recommendations
+
+Chicken tacos and potstickers seem to be the least ordered and least profitable items on the menu. Based on this analysis, it does not seem necessary to include them in the new menu, as they may result in more loss than profit due to the high cost of preparation relative to their earnings.
+
+
 
 
