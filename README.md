@@ -37,18 +37,21 @@ item_id             : Matches the menu_item_id in the menu_items table
 
 EDA involved exploring the dataset to answer key questions, such as:  
 #### View the **menu_items** table:
+##### Objective_1
 1) What are the number of items in the menu?
 2) What are the least and most expensive items on the menu?
 3) How many Italian dishes are on the menu? What are the least and most expensive Italian dish on the menu?
 4) How many dishes are in each category? What is the average dish price within each category?
 
 #### View the **order_details** table:
+##### Objective_2
 5) What is the date range of the table?
 6) How many orders were made within this date range? How many items were ordered within this date range?
 7) Which orders had the most number of items?
 8) How many orders had more than 12 items?
 
 #### Join the **menu_items** and **order_details** table:
+##### Objective_3
 10) What were the least and most ordered items? What category were they in?
 11) What were the top 5 orders that spent the most money?
 12) What insights can be gathered form the results of highest spend order?
