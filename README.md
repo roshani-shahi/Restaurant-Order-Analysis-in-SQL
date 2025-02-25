@@ -1,4 +1,12 @@
 # Restaurant Order Analysis in SQL
+
+## Table of Contentes:
+- [Project Overview](#project-overview)
+- [Data Source](data-source)
+- [Data Cleaning/Preparation](data-cleaning/preparation)
+- [Exploratory Data Analysis(EDA)](exploratory-data-analysis(eda))
+- [Results/Findings](results/findings)
+- [Recommendations](recommendations)
 ### Project Overview:
 SQL Data Analysis on Restaurant Orders: This project analyzes a restaurant's order data over a quarter, focusing on order frequency, item popularity, high-value purchases, and time-based trends. Key insights include identifying the most and least ordered items, peak ordering times, and potential cuisine expansions. The SQL queries and dataset used for this analysis are included in the repository.
 
@@ -47,15 +55,34 @@ EDA involved exploring the dataset to answer key questions, such as:
 12) What insights can be gathered form the results of highest spend order?
 13) What insights can be gathered from the top 5 highest spend order?
 
-### Results/Findings
+### Results/Findings: 
 Interesting results during analysis are summarized as follows:
 1) The least ordered items were mostly fell into Mexican and Italian category however the highest amount spend category were Italian also Mexican respectively.
 2) The most ordered items was in American category however the least amount spend category was also American.
 3) Asian was the second most ordered category and secon highest amount spend overall.
 
-### Recommendations
+### Recommendations: 
 
-Chicken tacos and potstickers seem to be the least ordered and least profitable items on the menu. Based on this analysis, it does not seem necessary to include them in the new menu, as they may result in more loss than profit due to the high cost of preparation relative to their earnings.
+Based on the analysis, the following recommendations are proposed to optimize the restaurant’s menu and maximize profitability:
+
+#### 📌 Optimize Underperforming Items Before Removal
+Chicken tacos and potstickers are among the least ordered and least profitable items. However, instead of removing them immediately, it is advisable to first test strategies such as:
+- Offering limited-time discounts or promotions to see if demand improves.
+- Adjusting portion sizes or ingredients to reduce preparation costs.
+- Gathering customer feedback to understand potential improvements.
+- If these items continue to underperform despite optimizations, removing them from the menu would be a viable option to prevent potential losses.
+#### 🍝 Refine the Italian Category for Higher Sales
+Although the Italian category has lower order volume, it generates the highest profit due to its high-priced items. Instead of removing any dishes, the focus should be on:
+- Identifying the best-selling Italian dishes and promoting them more prominently on the menu.
+- Introducing combo deals or pairing Italian items with popular menu choices to increase their visibility.
+- Testing seasonal Italian specials to attract more customers.
+ #### 🍔 Strategically Expand American & Asian Offerings
+Since American and Asian dishes are the most ordered, expanding these categories could further boost sales. However, rather than immediately adding permanent items, a data-driven approach is recommended:
+- Introducing seasonal or limited-time menu items to gauge customer interest.
+- Analyzing which new items perform best before integrating them permanently.
+- Offering meal deals or bundles that incorporate popular dishes to increase order value.
+
+By following these strategic adjustments, the restaurant can enhance menu performance, improve profitability, and ensure customer satisfaction.
 
 
 
