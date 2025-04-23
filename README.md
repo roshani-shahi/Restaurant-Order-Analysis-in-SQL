@@ -67,18 +67,18 @@ Interesting results during analysis are summarized as follows:
 
 Based on the analysis, the following recommendations are proposed to optimize the restaurant’s menu and maximize profitability:
 
-#### 📌 Optimize Underperforming Items Before Removal
+####  Optimize Underperforming Items Before Removal
 Chicken tacos and potstickers are among the least ordered and least profitable items. However, instead of removing them immediately, it is advisable to first test strategies such as:
 - Offering limited-time discounts or promotions to see if demand improves.
 - Adjusting portion sizes or ingredients to reduce preparation costs.
 - Gathering customer feedback to understand potential improvements.
 - If these items continue to underperform despite optimizations, removing them from the menu would be a viable option to prevent potential losses.
-#### 🍝 Refine the Italian Category for Higher Sales
+####  Refine the Italian Category for Higher Sales
 Although the Italian category has lower order volume, it generates the highest profit due to its high-priced items. Instead of removing any dishes, the focus should be on:
 - Identifying the best-selling Italian dishes and promoting them more prominently on the menu.
 - Introducing combo deals or pairing Italian items with popular menu choices to increase their visibility.
 - Testing seasonal Italian specials to attract more customers.
- #### 🍔 Strategically Expand American & Asian Offerings
+ ####  Strategically Expand American & Asian Offerings
 Since American and Asian dishes are the most ordered, expanding these categories could further boost sales. However, rather than immediately adding permanent items, a data-driven approach is recommended:
 - Introducing seasonal or limited-time menu items to gauge customer interest.
 - Analyzing which new items perform best before integrating them permanently.
